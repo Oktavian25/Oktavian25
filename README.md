@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/fYpWLBg/Blue-And-Green-Professional-Technology-Linked-In-Banner.jpg" alt="imagine">
-<h1 align="center">Hi 👋, I'm Octavian Udrea</h1>
-<h3 align="center">A student passionate about web development, both backend and frontend!</h3>
+# Octavian Udrea
+**`Code Specialist (Full-Stack Development)`**
 
 - 🌱 I’m currently learning **.NET**
 
