@@ -30,7 +30,7 @@ Welcome! I'm a Computer Science student with a passion for programming and full-
 ### 📊 Stats
 
 ![Oktavian's GitHub stats](https://github-readme-stats.vercel.app/api?username=oktavian25&show_icons=true&theme=gruvbox)
-![Oktavian's LeetCode stats](https://leetcard.jacoblin.cool/Okta25555?theme=nord&font=Questrial)
+<!--![Oktavian's LeetCode stats](https://leetcard.jacoblin.cool/Okta25555?theme=nord&font=Questrial)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
