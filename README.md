@@ -37,6 +37,6 @@ Welcome! I'm a Computer Science student with a passion for programming and full-
 
 <details>
  <summary><h3>👨‍💻 Octavian's Coding Journey</h3></summary>
-   Currently a student at the University of Craiova, pursuing Computer Science in the first year. I have experience specializing in full-stack development, as well as familiarity with data structures and algorithms. From a young age, I’ve enjoyed programming — nerdy and curious, I’ve always
+   Currently a student at the University of Craiova, pursuing Computer Science in the second year. I have experience specializing in full-stack development, as well as familiarity with data structures and algorithms. From a young age, I’ve enjoyed programming — nerdy and curious, I’ve always
 loved peeking behind the scenes to understand how things work. Interested in devising a better problem‑solving method for challenging tasks, and learning new technologies and tools if the need arise.
 
