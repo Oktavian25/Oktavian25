@@ -5,7 +5,7 @@
 Welcome! I'm a Computer Science student with a passion for programming and full-stack development. Here, I share my projects and experiments, showcasing my journey and love for creating impactful software solutions.
 
    <p align="left">
-      <a target=”_blank” href="www.linkedin.com/in/octavian-udrea-477bb6248">
+      <a target=”_blank” href="https://linkedin.com/in/octavian-udrea-477bb6248">
          <img alt="LinkedIn" title="Click on my LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=icons8-linkedintest&logoColor=white"/></a> 
    </p>
 
